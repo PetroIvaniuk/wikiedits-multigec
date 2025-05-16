@@ -1,7 +1,7 @@
 # WikiEdits-MultiGEC
 
 ## Overview
-WikiEdits-MultiGEC is a small dataset of human error corrections made by Wikipedia contributors for eleven languages.\
+WikiEdits-MultiGEC is a small dataset of human error corrections made by Wikipedia contributors for eleven languages.
 It is a collection of scripts for automatic extraction of edits from Wikipedia.\
 ❤️ Support the project by starring the repo.
 
