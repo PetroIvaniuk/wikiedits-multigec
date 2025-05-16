@@ -3,10 +3,18 @@
 ## Overview
 WikiEdits-MultiGEC is a small dataset of human error corrections made by Wikipedia contributors for eleven languages.\
 It is a collection of scripts for automatic extraction of edits from Wikipedia.\
+The dataset is a part of [OmniGEC](https://huggingface.co/collections/lang-uk/omnigec-68095391ebef195ed6c0a5f3) -
+the collection of multilingual silver-standard datasets and models for the task of Grammatical Error Correction (GEC).\
+You can find data on [HuggingFace WikiEdits-MultiGEC](https://huggingface.co/datasets/lang-uk/WikiEdits-MultiGEC).\
 ❤️ Support the project by starring the repo.
 
+## Road Map
+- [ ] Refactor existing Jupyter notebooks into a reusable Python package for better structure and maintainability.
+- [ ] Develop a system to ensure all scripts can be executed automatically one time per week/month.
+- [ ] Set up an additional process for annotating datasets to improve dataset for model training.
+- [ ] Integrate additional low-resource languages to broaden the project’s multilingual capabilities.
+
 ## Corpus
-You can find data on [HuggingFace WikiEdits-MultiGEC](https://huggingface.co/datasets/lang-uk/WikiEdits-MultiGEC).
 The corpus has been prepared for 11 languages:
 
 | Language  | Code  | WikiPage                                                                                                                               | Recent Changes                                                                                                                                                                                                                                                                                                                |
@@ -29,11 +37,9 @@ The corpus has been prepared for 11 languages:
 - [Number of edits (all)](metadata/corrections.json)
 - [Number of edits](metadata/corrections_clean.json)
 
-## Road Map
-- [ ] Refactor existing Jupyter notebooks into a reusable Python package for better structure and maintainability.
-- [ ] Develop a system to ensure all scripts can be executed automatically one time per week/month.
-- [ ] Set up an additional process for annotating datasets to improve dataset for model training.
-- [ ] Integrate additional low-resource languages to broaden the project’s multilingual capabilities.
+## How to use
+
+TBD
 
 ## Reference
 If you use or discuss this dataset in your work, please cite our paper:\
