@@ -3,9 +3,6 @@
 ## Overview
 WikiEdits-MultiGEC is a small dataset of human error corrections made by Wikipedia contributors for eleven languages.\
 It is a collection of scripts for automatic extraction of edits from Wikipedia.\
-The dataset is a part of [OmniGEC](https://huggingface.co/collections/lang-uk/omnigec-68095391ebef195ed6c0a5f3) -
-the collection of multilingual silver-standard datasets and models for the task of Grammatical Error Correction (GEC).\
-You can find data on [HuggingFace WikiEdits-MultiGEC](https://huggingface.co/datasets/lang-uk/WikiEdits-MultiGEC).\
 ❤️ Support the project by starring the repo.
 
 ## Road Map
@@ -15,6 +12,10 @@ You can find data on [HuggingFace WikiEdits-MultiGEC](https://huggingface.co/dat
 - [ ] Integrate additional low-resource languages to broaden the project’s multilingual capabilities.
 
 ## Corpus
+The dataset is a part of [OmniGEC](https://huggingface.co/collections/lang-uk/omnigec-68095391ebef195ed6c0a5f3) -
+the collection of multilingual silver-standard datasets and models for the task of Grammatical Error Correction (GEC).
+You can find data on [HuggingFace WikiEdits-MultiGEC](https://huggingface.co/datasets/lang-uk/WikiEdits-MultiGEC).
+
 The corpus has been prepared for 11 languages:
 
 | Language  | Code  | WikiPage                                                                                                                               | Recent Changes                                                                                                                                                                                                                                                                                                                |
