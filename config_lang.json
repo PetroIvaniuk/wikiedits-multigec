@@ -1,0 +1,68 @@
+{
+    "english": {
+       "lang_wiki": "en",
+        "language": "english",
+        "page_title": "Special:RecentChanges",
+        "is_process": false
+    },
+    "czech": {
+        "lang_wiki": "cs",
+        "language": "czech",
+        "page_title": "Speciální:Poslední_změny",
+        "is_process": true
+    },
+    "estonian": {
+        "lang_wiki": "et",
+        "language": "estonian",
+        "page_title": "Eri:Viimased_muudatused",
+        "is_process": true
+    },
+    "german": {
+        "lang_wiki": "de",
+        "language": "german",
+        "page_title": "Spezial:Letzte_%C3%84nderungen",
+        "is_process": true
+    },
+    "greek": {
+        "lang_wiki": "el",
+        "language": "greek",
+        "page_title": "Ειδικό:ΠρόσφατεςΑλλαγές",
+        "is_process": true
+    },
+    "icelandic": {
+        "lang_wiki": "is",
+        "language": "icelandic",
+        "page_title": "Kerfiss%C3%AD%C3%B0a:N%C3%BDlegar_breytingar",
+        "is_process": true
+    },
+    "italian": {
+        "lang_wiki": "it",
+        "language": "italian",
+        "page_title": "Speciale:UltimeModifiche",
+        "is_process": true
+    },
+    "latvian": {
+        "lang_wiki": "lv",
+        "language": "latvian",
+        "page_title": "Special:RecentChanges",
+        "is_process": true
+    },
+    "slovene": {
+        "lang_wiki": "sl",
+        "language": "slovene",
+        "page_title": "Posebno:ZadnjeSpremembe",
+        "is_process": true
+    },
+    "swedish": {
+        "lang_wiki": "sv",
+        "language": "swedish",
+        "page_title": "Special:Senaste_ändringar",
+        "is_process": true
+    },
+    "ukrainian": {
+        "lang_wiki": "uk",
+        "language": "ukrainian",
+        "page_title": "Спеціальна:Нові_редагування",
+        "is_process": true
+    }
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "language_code": "en",
+        "# edits": 29454,
+        "language": "english"
+    },
+    {
+        "language_code": "it",
+        "# edits": 6488,
+        "language": "italian"
+    },
+    {
+        "language_code": "uk",
+        "# edits": 6165,
+        "language": "ukrainian"
+    },
+    {
+        "language_code": "de",
+        "# edits": 4672,
+        "language": "german"
+    },
+    {
+        "language_code": "cs",
+        "# edits": 1193,
+        "language": "czech"
+    },
+    {
+        "language_code": "sv",
+        "# edits": 654,
+        "language": "swedish"
+    },
+    {
+        "language_code": "el",
+        "# edits": 562,
+        "language": "greek"
+    },
+    {
+        "language_code": "et",
+        "# edits": 138,
+        "language": "estonian"
+    },
+    {
+        "language_code": "sl",
+        "# edits": 121,
+        "language": "slovene"
+    },
+    {
+        "language_code": "lv",
+        "# edits": 75,
+        "language": "latvian"
+    }
+]

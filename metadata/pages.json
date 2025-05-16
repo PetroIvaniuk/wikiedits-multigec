@@ -1,0 +1,42 @@
+[
+    {
+        "language": "english",
+        "# pages": 9842
+    },
+    {
+        "language": "italian",
+        "# pages": 2569
+    },
+    {
+        "language": "german",
+        "# pages": 1706
+    },
+    {
+        "language": "ukrainian",
+        "# pages": 1661
+    },
+    {
+        "language": "czech",
+        "# pages": 479
+    },
+    {
+        "language": "swedish",
+        "# pages": 255
+    },
+    {
+        "language": "greek",
+        "# pages": 155
+    },
+    {
+        "language": "estonian",
+        "# pages": 48
+    },
+    {
+        "language": "slovene",
+        "# pages": 28
+    },
+    {
+        "language": "latvian",
+        "# pages": 20
+    }
+]
